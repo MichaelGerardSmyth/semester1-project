@@ -1,0 +1,30 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+}
+
+.jumbotron{
+	background-image:url('../images/mosaic.jpg');
+	background-attachment:fixed;
+	min-height:300px;
+	margin-bottom:0px;
+}
+
+.alt1{
+	background-color: #e6ffcc;
+	min-height:400px;
+}
+
+.alt2{
+	background-color:#eee;
+	min-height:500px;
+}
+
+.padding{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
