@@ -15,16 +15,45 @@ th, td {
 
 .alt1{
 	background-color: #e6ffcc;
-	min-height:400px;
+	min-height:200px;
 }
 
 .alt2{
 	background-color:#eee;
-	min-height:500px;
+	min-height:1000px;
+}
+
+
+.alt3{
+	background-color:#404040;
+	color:#e6e6e6;
+	min-height:100px;
+	text-align: center;
 }
 
 .padding{
-	padding-top:20px;
-	padding-bottom:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.starter{
+	padding-top:50px;
+}
+
+.wild{
+	padding-top:25px;
+}
+.images{
+	text-align: center;
+	border-radius: 25px;
+}
+.starterimages{
+	padding-top:135px;
+	text-align:center;
+}
+
+.wildimages{
+	padding-top:65px;
+	text-align:center;
 }
 
